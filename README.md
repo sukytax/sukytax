@@ -15,9 +15,10 @@
 
 ## 🌱 I’m currently learning ...
 [![My Skills](https://skillicons.dev/icons?i=py,php,html,cpp,mysql )](https://skillicons.dev)
+
 ## 📫 How to reach me ...
 <p align="center">
-<a href="https://www.instagram.com/bimobagasr/" style=center>
+<a href="https://www.instagram.com/bimobagasr/">
   <img src="https://github.com/sukytax/sukytax/assets/142202948/de9f4acd-31ef-4b0f-a9a4-5079b242435c)" width="75" alt="Ini instagram ku">
 </a>
 </p>
